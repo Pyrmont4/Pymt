@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b9b38d4e-1b21-4c8f-9fa0-937e27802cf6" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +15,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Mapper" />
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -61,8 +61,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.atguigu.gmall.product.service" />
       <recent name="com.atguigu.gmall.product.mapper" />
+      <recent name="com.atguigu.gmall.product.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="F:\项目\model\src\main\java" />
@@ -124,7 +124,8 @@
       <workItem from="1658664931658" duration="374000" />
       <workItem from="1658797319237" duration="13586000" />
       <workItem from="1658824124665" duration="14985000" />
-      <workItem from="1658883826870" duration="4762000" />
+      <workItem from="1658883826870" duration="28571000" />
+      <workItem from="1658935137614" duration="5185000" />
     </task>
     <task id="LOCAL-00001" summary="派蒙的电商第二天">
       <created>1658665109190</created>
@@ -140,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658837733289</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="派蒙的电商第三天">
+      <created>1658892052192</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658892052192</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

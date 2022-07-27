@@ -125,7 +125,7 @@
       <workItem from="1658797319237" duration="13586000" />
       <workItem from="1658824124665" duration="14985000" />
       <workItem from="1658883826870" duration="28571000" />
-      <workItem from="1658935137614" duration="6174000" />
+      <workItem from="1658935137614" duration="7317000" />
     </task>
     <task id="LOCAL-00001" summary="派蒙的电商第二天">
       <created>1658665109190</created>
@@ -155,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658940381403</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="派蒙的电商第四天">
+      <created>1658941553175</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658941553175</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,27 +173,6 @@
     <MESSAGE value="派蒙的电商第三天" />
     <MESSAGE value="派蒙的电商第四天" />
     <option name="LAST_COMMIT_MESSAGE" value="派蒙的电商第四天" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/impl/SpuManageServiceImpl.java</url>
-          <line>98</line>
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/impl/SpuManageServiceImpl.java</url>
-          <line>96</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/service/impl/SpuManageServiceImpl.java</url>
-          <line>65</line>
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

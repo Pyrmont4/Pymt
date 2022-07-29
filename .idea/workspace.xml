@@ -127,6 +127,7 @@
       <workItem from="1658883826870" duration="28571000" />
       <workItem from="1658935137614" duration="7638000" />
       <workItem from="1658972286724" duration="9922000" />
+      <workItem from="1659054156139" duration="1226000" />
     </task>
     <task id="LOCAL-00001" summary="派蒙的电商第二天">
       <created>1658665109190</created>
@@ -181,6 +182,17 @@
     <MESSAGE value="派蒙的电商第三天" />
     <MESSAGE value="派蒙的电商第四天" />
     <option name="LAST_COMMIT_MESSAGE" value="派蒙的电商第四天" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/service/service-product/src/main/java/com/atguigu/gmall/product/controller/SkuManageController.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

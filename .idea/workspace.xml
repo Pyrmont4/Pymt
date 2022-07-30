@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b9b38d4e-1b21-4c8f-9fa0-937e27802cf6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,9 +20,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
-        <option value="Mapper" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="Mapper" />
       </list>
     </option>
   </component>
@@ -49,9 +53,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/model/src/main/java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/service/service-product/target/classes" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
@@ -62,9 +66,11 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.atguigu.gmall.product.mapper" />
+      <recent name="com.atguigu.gmall.item.service" />
       <recent name="com.atguigu.gmall.product.service" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\项目\service\service-product\target\classes" />
       <recent name="F:\项目\model\src\main\java" />
       <recent name="F:\项目\common\service-util\src\main\java" />
       <recent name="F:\项目\common\common-util\src\main\java" />
@@ -127,7 +133,9 @@
       <workItem from="1658883826870" duration="28571000" />
       <workItem from="1658935137614" duration="7638000" />
       <workItem from="1658972286724" duration="9922000" />
-      <workItem from="1659054156139" duration="9010000" />
+      <workItem from="1659054156139" duration="27256000" />
+      <workItem from="1659101190460" duration="379000" />
+      <workItem from="1659140395991" duration="3081000" />
     </task>
     <task id="LOCAL-00001" summary="派蒙的电商第二天">
       <created>1658665109190</created>
@@ -178,7 +186,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659055671110</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="派蒙的电商第四天">
+      <created>1659066202703</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1659066202703</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

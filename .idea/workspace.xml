@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9b38d4e-1b21-4c8f-9fa0-937e27802cf6" name="Changes" comment="">
+    <list default="true" id="b9b38d4e-1b21-4c8f-9fa0-937e27802cf6" name="Changes" comment="你可以永远相信布隆">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/gmall/common/cache/GmallCache.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/gmall/common/cache/GmallCacheAspect.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/gmall/common/constant/RedisConst.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/service-util/src/main/java/com/atguigu/gmall/common/constant/RedisConst.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,9 +21,9 @@
       <list>
         <option value="FxmlFile" />
         <option value="Mapper" />
-        <option value="Interface" />
         <option value="AnnotationType" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -78,7 +79,7 @@
       <recent name="F:\项目\common\service-util\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Spring Boot.ServerGatewayApplication">
+  <component name="RunManager" selected="Spring Boot.ServiceProductApplication">
     <configuration name="ServerGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="server-gateway" />
       <extension name="coverage">
@@ -95,6 +96,19 @@
     <configuration name="ServiceItemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="service-item" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.item.ServiceItemApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceListApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-list" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.gmall.list.config.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.list.config.ServiceListApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -129,6 +143,7 @@
       <list>
         <item itemvalue="Spring Boot.ServiceProductApplication" />
         <item itemvalue="Spring Boot.WebAllApplication" />
+        <item itemvalue="Spring Boot.ServiceListApplication" />
         <item itemvalue="Spring Boot.ServerGatewayApplication" />
       </list>
     </recent_temporary>
@@ -164,6 +179,12 @@
       <workItem from="1659350893123" duration="3696000" />
       <workItem from="1659400011054" duration="1464000" />
       <workItem from="1659422658649" duration="11863000" />
+      <workItem from="1659441228362" duration="153000" />
+      <workItem from="1659488326234" duration="1568000" />
+      <workItem from="1659490453309" duration="4135000" />
+      <workItem from="1659495958824" duration="19000" />
+      <workItem from="1659496440814" duration="3863000" />
+      <workItem from="1659519616560" duration="13130000" />
     </task>
     <task id="LOCAL-00001" summary="派蒙的电商第二天">
       <created>1658665109190</created>
@@ -235,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659354675246</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="你可以永远相信布隆">
+      <created>1659441255099</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1659441255099</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,7 +274,8 @@
     <MESSAGE value="派蒙的电商第三天" />
     <MESSAGE value="派蒙的电商第四天" />
     <MESSAGE value="电5" />
-    <option name="LAST_COMMIT_MESSAGE" value="电5" />
+    <MESSAGE value="你可以永远相信布隆" />
+    <option name="LAST_COMMIT_MESSAGE" value="你可以永远相信布隆" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
